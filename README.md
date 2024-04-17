@@ -34,4 +34,4 @@ The following optional packages are required to run Inflam's unit tests:
 ## Citation
 
 ## License
-
+This work is licensed under CC BY-NC-SA 4.0 
